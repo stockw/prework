@@ -1,0 +1,8 @@
+<style type="text/css">
+	#div1{background-color: white;}
+	#div2{background-color: tan;}
+	#div3{background-color: fuchsia;}
+	#div4{background-color: brown;}
+
+	#div1, #div2, #div3, #div4 {border: solid;}
+</style>
